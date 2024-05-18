@@ -2,14 +2,14 @@
 
 This is an e-commerce application where users can browse and buy products online. The application is built using React.js for the front end and Node.js for the backend.
 
-##Features
+## Features
 User authentication: Users can sign up, log in, and manage their accounts.
 Product browsing: Users can view products, search for specific items, and filter products by category.
 Shopping cart: Users can add products to their cart and proceed to checkout.
 Favorites and wishlist: Users can add products to their favorites or wishlist for future reference.
 Admin panel: Admins can manage products, orders, and user accounts.
 
-##Technologies Used
+## Technologies Used
 Frontend:
 
 React.js
@@ -24,7 +24,7 @@ MongoDB (for data storage)
 Mongoose (for MongoDB object modeling)
 JWT (for user authentication)
 
-##Getting Started
+## Getting Started
 To run the application locally, follow these steps:
 
 Clone this repository to your local machine.
