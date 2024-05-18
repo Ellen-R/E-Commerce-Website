@@ -32,12 +32,10 @@ bash
 Copy code
 git clone <repository-url>
 Navigate to the project directory.
-bash
-Copy code
+
 cd ecommerce-app
 Install dependencies for both the frontend and backend.
-bash
-Copy code
+
 ### Install frontend dependencies
 cd frontend
 npm install
@@ -46,8 +44,6 @@ npm install
 cd ../backend
 npm install
 Start the frontend and backend servers.
-bash
-Copy code
 ### Start the frontend server
 cd frontend
 npm start
@@ -57,7 +53,7 @@ cd ../backend
 npm start
 Open your browser and navigate to http://localhost:3000 to view the application.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the repository.
